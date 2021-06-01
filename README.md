@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @losthero15
 - 👀 I’m interested in programming and language learning. 
-- 🌱 I’m currently learning python, web development, machine learning and multiple languages (machine and humain). 
-- 💞️ I’m looking to collaborate on python projects. 
+- 🌱 I’m currently learning python, web development, machine learning and multiple languages (machine and human). 
+- 💞️ I’m looking to collaborate on mainly python projects. 
 - 📫 How to reach me ; nortech15@gmail.com
 
 <!---
